@@ -1,5 +1,9 @@
 # Svelte Carousel Flickity
 
+## Demo
+
+https://svelte-carousel-flickity.vercel.app/
+
 ## Install
 
 ```bash
