@@ -12,7 +12,5 @@
 			contain: true
 		})
 	}
-	onMount(() => {
-		panggilFlickity()
-	})
+	onMount(() => panggilFlickity())
 </script>
